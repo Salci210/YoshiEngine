@@ -147,7 +147,7 @@
 	<!-- <haxelib name="hxvm-lua"/>
 	<haxelib name="linc_lua"/> -->
 	<haxelib name="linc_luajit" />
-	<haxelib name="akifox-asynchttp"/>
+	<haxelib name="akifox-asynchttp" if="windows"/>
 	
 	<!-- <haxelib name="flixel-animate"/> -->
 	<haxelib name="discord_rpc" if="desktop"/>
